@@ -22,12 +22,12 @@
 ---
 
 ### 🚀 Technologies I Know
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks:** React.js, Next.js
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python 
+- **Frameworks:** React.js, Next.js, Streamlit and OpenAI Agents SDK
 - **Styling:** TailwindCSS, Shadcn, Styled-components
 - **Databases:** Sanity
 - **Project Management:** Git, GitHub
-- **Design Tools:** Figma, Canva
+- **Design Tools:** Figma, Canva, Adobe Illustrator 
 - **Deployment Platforms:** Netlify, Vercel
 
 ---
